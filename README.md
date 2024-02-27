@@ -25,4 +25,5 @@ After container is started, open a terminal in the VSCode session and run below 
 All it does is just running ```ollama run gemma:2b```. You can then interact with the model from the terminal.
 
 Alternatively, you can also open the ```requests.http``` file in VSCode and test the model interaction via the pre-installed Rest Client VSCode extension.
+
 ![image](https://github.com/sidecus/ollama-devcontainer/assets/4399408/facb509b-2155-4f22-a3c9-f8f1c65c939f)
